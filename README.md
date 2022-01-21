@@ -2,7 +2,7 @@
 
 - check the wiki page of the repository.
 
-![clikhere](https://www.iosrjournals.org/imgs/click-here.gif)
+![clikhere](https://monophy.com/media/fVtsIajEs6TVOVIk3d/monophy.gif) hii
 
 - Wiki: https://github.com/subhranshuchoudhury/SQL/wiki
 
